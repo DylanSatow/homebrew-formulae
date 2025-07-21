@@ -2,7 +2,7 @@ class Obsid < Formula
   desc "Automatically track programming work in Obsidian daily notes"
   homepage "https://github.com/DylanSatow/obsid"
   url "https://github.com/DylanSatow/obsid/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "71fd3471243241031dcc4222cf83b0c3edfeb0afccf2db004b5e3fbf5df8100e"
+  sha256 "e48d148ec77ed561d1905a5a3511d2d42340419017b0d18158496ad0f5c7de2d"
   license "MIT"
 
   depends_on "go" => :build
